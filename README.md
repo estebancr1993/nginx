@@ -15,4 +15,6 @@
 6.- [Referencias.]()
 
 
+---
+
 ![LICENCIA](https://github.com/estebancr1993/docker-portainer/blob/main/imagenes/Licencia-5.png)
