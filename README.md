@@ -12,7 +12,7 @@
 
 5.- [Casos prácticos.](https://github.com/estebancr1993/nginx/blob/main/casos.md)
 
-6.- [Referencias.](https://github.com/estebancr1993/nginx/blob/main/referencia.md)
+6.- [Referencias.](https://github.com/estebancr1993/nginx/blob/main/referencias.md)
 
 
 ---
