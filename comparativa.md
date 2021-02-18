@@ -51,7 +51,7 @@ Falta de herramientas de monitoreo de los registros, se limita a generar archivo
 
 ## ¿Cuál utilizar?
 
->Al final, todo dependerá de lo que necesites. Apache, es una buena idea usarlo si necesitas mucha información. Por otro lado, si tu servidor web recibe mucho tráfico, es probable que necesites usar Nginx, pues se comporta mucho mejor en este aspecto. 
+>Al final, todo dependerá de lo que necesites. Apache, es una buena idea usarlo si necesitas muchas conexiones. Por otro lado, si tu servidor web recibe mucho tráfico, es probable que necesites usar Nginx, pues se comporta mucho mejor en este aspecto. 
 >
 >Ambos servidores van a funcionar bien y van a mantener nuestra web segura. Ahora es ya cuestión de cada uno que elija el que mejor se adapte a sus necesidades.
 
