@@ -16,7 +16,7 @@ Algunas de características comunes son:
 + Soporte FastCGI con almacenamiento en caché. [¿Qué es?](https://es.wikipedia.org/wiki/FastCGI#:~:text=FastCGI%20es%20un%20protocolo%20para%20interconectar%20programas%20interactivos%20con%20un%20servidor%20web.&text=El%20principal%20objetivo%20de%20FastCGI,más%20peticiones%20a%20la%20vez.)
 + Websockets. [¿Qué es?](https://es.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20es%20una%20tecnología%20que,por%20cualquier%20aplicación%20cliente%2Fservidor.)
 + Manejo de archivos estáticos, archivos de índice y auto indexación.
-+ TLS / SSL con SNI. [¿Qué es?](https://www.sslmarket.es/ssl/help-sni-server-name-indication)
++ TLS/SSL con SNI. [¿Qué es?](https://www.sslmarket.es/ssl/help-sni-server-name-indication)
 
 ---
 
