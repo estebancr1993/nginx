@@ -12,7 +12,7 @@
 
 [Más seguridad](https://geekflare.com/es/nginx-webserver-security-hardening-guide/)
 
-[EXTRA](https://www.elarraydejota.com/nginxconfig-io-generador-de-configuraciones-para-nginx/
+[EXTRA](https://www.elarraydejota.com/nginxconfig-io-generador-de-configuraciones-para-nginx/)
 
 [Videos](https://www.youtube.com/watch?v=_LQv96MdtCk&list=PLqRCtm0kbeHD7A5f8Yft-5qFg-sgXvGzR)
 
