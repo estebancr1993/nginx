@@ -2,6 +2,8 @@
 
 Vamos a comparar Apache y NGINX.
 
+![comparativa](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/rdBa5bZujAqPzQxkDEiYeZRN/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882)
+
 ### Apache (Ventajas y desventajas)
 Apache es la mejor opción para la mayoría de webmasters y desarrolladores. Funciona en múltiples sistemas operativos, incluyendo Windows, Unix y Linux.
 
