@@ -4,8 +4,8 @@
 
 ```console
 apt update
-apt-get install nginx -y
-systemctl enable nginx
+apt policy nginx
+apt install nginx
 systemctl status nginx
 ```
 
