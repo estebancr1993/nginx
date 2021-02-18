@@ -57,4 +57,4 @@ Falta de herramientas de monitoreo de los registros, se limita a generar archivo
 
 ---
 
-[INICIO](https://github.com/estebancr1993/nginx)
+[INICIO](https://github.com/estebancr1993/nginx/blob/main/README.md)
