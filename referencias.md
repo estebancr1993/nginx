@@ -12,6 +12,8 @@
 
 [Más seguridad](https://geekflare.com/es/nginx-webserver-security-hardening-guide/)
 
+[EXTRA](https://www.elarraydejota.com/nginxconfig-io-generador-de-configuraciones-para-nginx/
+
 [Videos](https://www.youtube.com/watch?v=_LQv96MdtCk&list=PLqRCtm0kbeHD7A5f8Yft-5qFg-sgXvGzR)
 
 [Curso nginx desde cero videos](https://www.youtube.com/watch?v=eyxpLa9hUS8&list=PLYAyQauAPx8kwPdi9v1d_FGdJ50_li_WE)
